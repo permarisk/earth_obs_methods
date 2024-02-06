@@ -8,3 +8,5 @@ itables
 xclim
 pyextremes
 gdown
+netcdf4
+h5netcdf
