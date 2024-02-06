@@ -5,3 +5,5 @@ seaborn
 xarray
 scipy
 itables
+xclim
+pyextremes
